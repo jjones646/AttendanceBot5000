@@ -1,0 +1,9 @@
+# uVision files/folders
+*.uvgui.*
+*.uvopt
+*.uvproj
+/build
+
+# mbed.org files/folders
+*.hgignore
+/.hg
